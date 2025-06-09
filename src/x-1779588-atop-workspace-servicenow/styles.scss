@@ -1,0 +1,16 @@
+@use '@servicenow/sass-kit/host';
+
+h1 {
+    display: inline-block;
+    color:#80B6A1;
+    font-family: 'Righteous', serif;
+    font-size: 5em;
+    text-shadow: .03em .03em 0 #293E40;
+}
+
+#responsePanel {
+    border-radius: 25px;
+    border: solid 1px grey;
+    background-color:#f5f5f5; 
+    padding:15px;
+} 
